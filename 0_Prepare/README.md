@@ -14,9 +14,14 @@
 **Table 1** - Tasks and outcomes of the Prepare step.
 
 # P1 - Risk Management Roles
+
+## Outcome
+Individuals are identified and assigned key roles for executing the Risk Management Framework.
+
 ## Input: 
 
 ![](OrgChart.png)
+
 **Reference 1** - Organizational hierarchy of example company.
 Output: Documented Risk Management Framework role assignments (reference SP 800-37, appendix D, for roles and responsibilities).
 
@@ -33,3 +38,10 @@ Output: Documented Risk Management Framework role assignments (reference SP 800-
 | System User | All employees | Authorized access to information system and its information in order to perform assigned duties. |
 
 NOTE: Responsibilities lie with assigned individuals, however many tasks are delgated down (e.g. the CISO is responsible for secure procurement of hardware, however the SysAdmin is delegated the task of ordering and receiving hardware, with the CISO's oversight with policies and standard operating procedures (SOP's)).
+
+---
+
+# P2 - Risk Management Strategy
+
+## Outcome
+A risk management strategy for the organization that includes a determination and expression of organizational risk tolerance is established
